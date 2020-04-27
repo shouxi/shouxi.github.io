@@ -70,7 +70,7 @@ tgt.removeAttribute('class');
   year={2020},
 
   biosite_url = {./publications/jsac20-pam.pdf},
-  biosite_venue = {IEEE Journal on Selected Areas in Communications, accepted 2020},  
+  biosite_venue = {IEEE Journal on Selected Areas in Communications, 2020},  
 }
 
 @ARTICLE{jnca20-jpas,
@@ -307,7 +307,7 @@ tgt.removeAttribute('class');
   doi      = {10.1109/TPDS.2016.2525767},
   issn     = {1045-9219},
 
-  biosite_url = {./publications/tpds16-dcas-update.pdf},
+  biosite_url = {./publications/tpds16-dcas-updated.pdf},
   biosite_venue = {IEEE Transactions on Parallel and Distributed Systems, 2016},
 }
 
