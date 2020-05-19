@@ -63,6 +63,16 @@ tgt.removeAttribute('class');
 
 ```blog-bib
 
+@ARTICLE{iotj20-ppush,
+  author   = {Shouxi Luo and Tie Ma and Wei Shan and Pingzhi Fan and Huanlai Xing and Hongfang Yu},
+  title    = {Efficient Multi-source Data Delivery in Edge Cloud with Rateless Parallel Push},
+  journal={IEEE Internet of Things Journal},
+  year={2020},
+
+  biosite_url = {./publications/iotj20-ppush.pdf},
+  biosite_venue = {IEEE Internet of Things Journal, 2020},  
+}
+
 @ARTICLE{jsac20-pam,
   author   = {Shouxi Luo and Hongfang Yu and Ke Li and Huanlai Xing},
   title    = {Efficient File Dissemination in Data Center Networks with Priority-based Adaptive Multicast},
@@ -71,6 +81,19 @@ tgt.removeAttribute('class');
 
   biosite_url = {./publications/jsac20-pam.pdf},
   biosite_venue = {IEEE Journal on Selected Areas in Communications, 2020},  
+}
+
+@article{LIU2020106002,
+  title = "Online job scheduling for distributed machine learning in optical circuit switch networks",
+  journal = "Knowledge-Based Systems",
+  volume = "201-202",
+  pages = "106002",
+  year = "2020",
+  issn = "0950-7051",
+  doi = "https://doi.org/10.1016/j.knosys.2020.106002",
+  author = "Ling Liu and Hongfang Yu and Gang Sun and Huaman Zhou and Zonghang Li and Shouxi Luo",
+
+  biosite_venue = {Knowledge-Based Systems, 2020},  
 }
 
 @ARTICLE{jnca20-jpas,
@@ -123,7 +146,7 @@ tgt.removeAttribute('class');
   ISSN={2373-7816},
   month={},
 
-  biosite_url = {./publications/ieeesj19-dcn-multicast-tree.pdf},
+  biosite_url = {./publications/jsyst19-msctree.pdf},
   biosite_venue = {IEEE Systems Journal, 2019},  
 }
 
