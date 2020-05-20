@@ -83,6 +83,15 @@ tgt.removeAttribute('class');
   biosite_venue = {IEEE Journal on Selected Areas in Communications, 2020},  
 }
 
+@ARTICLE{iotj20-mec-offload,
+  author   = {Fuhong Song and Huanlai Xing and Shouxi Luo and Dawei Zhan and Penglin Dai and Rong Qu},
+  title    = {A Multiobjective Computation Offloading Algorithm for Mobile Edge Computing},
+  journal={IEEE Internet of Things Journal},
+  year={2020},
+
+  biosite_venue = {IEEE Internet of Things Journal, 2020},  
+}
+
 @article{LIU2020106002,
   title = "Online job scheduling for distributed machine learning in optical circuit switch networks",
   journal = "Knowledge-Based Systems",
