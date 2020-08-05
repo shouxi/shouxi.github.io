@@ -56,12 +56,21 @@ tgt.removeAttribute('class');
 [bio]-->
 
 
-## Publications
+## Selected Publications
 
 
 ### 2020
 
 ```blog-bib
+@ARTICLE{jsac20-pam,
+  author   = {Shouxi Luo and Hongfang Yu and Ke Li and Huanlai Xing},
+  title    = {Efficient File Dissemination in Data Center Networks with Priority-based Adaptive Multicast},
+  journal={IEEE Journal on Selected Areas in Communications},
+  year={2020},
+
+  biosite_url = {./publications/jsac20-pam.pdf},
+  biosite_venue = {IEEE Journal on Selected Areas in Communications, 2020},  
+}
 
 @ARTICLE{iotj20-ppush,
   author   = {Shouxi Luo and Tie Ma and Wei Shan and Pingzhi Fan and Huanlai Xing and Hongfang Yu},
@@ -73,14 +82,14 @@ tgt.removeAttribute('class');
   biosite_venue = {IEEE Internet of Things Journal, 2020},  
 }
 
-@ARTICLE{jsac20-pam,
-  author   = {Shouxi Luo and Hongfang Yu and Ke Li and Huanlai Xing},
-  title    = {Efficient File Dissemination in Data Center Networks with Priority-based Adaptive Multicast},
-  journal={IEEE Journal on Selected Areas in Communications},
+@ARTICLE{icpp20-poco,
+  author   = {Shouxi Luo and Pingzhi Fan and Huanlai Xing and Hongfang Yu},
+  title    = {Selective Coflow Completion for Time-sensitive Distributed Applications with Poco},
+  journal={49th International Conference on Parallel Processing - ICPP},
   year={2020},
 
-  biosite_url = {./publications/jsac20-pam.pdf},
-  biosite_venue = {IEEE Journal on Selected Areas in Communications, 2020},  
+  biosite_url = {./publications/icpp20-poco.pdf},
+  biosite_venue = {Proc. of 49th International Conference on Parallel Processing - ICPP, 2020},  
 }
 
 @ARTICLE{iotj20-mec-offload,
@@ -138,6 +147,7 @@ tgt.removeAttribute('class');
 
   biosite_venue = {Proc. of IEEE ICC, 2020},
 }
+
 ```
 
 ### 2019
@@ -175,6 +185,7 @@ tgt.removeAttribute('class');
 }
 
 
+<!--
 @article{jnca19-paco,
   title = "Scalable explicit path control in software-defined networks",
   journal = "Journal of Network and Computer Applications",
@@ -248,7 +259,7 @@ tgt.removeAttribute('class');
 
   biosite_venue = {Energies, 2019},  
 }
-
+-->
 ```
 
 ### 2017
@@ -275,6 +286,7 @@ tgt.removeAttribute('class');
   biosite_venue = {Proc. of Symposium on SDN Research (SOSR), 2017},
 }
 
+<!--
 @INPROCEEDINGS{8117587,
   author={Yangming {Zhao} and Shouxi {Luo} and Yi {Wang} and Sheng {Wang}},
   booktitle={2017 IEEE 25th International Conference on Network Protocols (ICNP)},
@@ -287,7 +299,7 @@ tgt.removeAttribute('class');
   ISSN={null},
   month={Oct},
 
-  biosite_venue = {Proc. of 25th ICNP, 2017},
+  biosite_venue = {Proc. of ICNP (NetBOS), 2017},
 }
 
 @INPROCEEDINGS{8116412,
@@ -320,7 +332,7 @@ tgt.removeAttribute('class');
 
   biosite_venue = {Proc. of IEEE ICC, 2017},
 }
-
+-->
 
 ```
 
@@ -374,7 +386,7 @@ tgt.removeAttribute('class');
   biosite_venue = {Proc. of IEEE ICC, 2016},
 }
 
-
+<!--
 @INPROCEEDINGS{7841562,
   author={Long {Luo} and Hongfang {Yu} and Shouxi {Luo} and Mingui {Zhang} and Shui {Yu}},
   booktitle={2016 IEEE Global Communications Conference (GLOBECOM)},
@@ -421,7 +433,7 @@ tgt.removeAttribute('class');
 
   biosite_venue = {Proc. of IEEE ICC, 2016},
 }
-
+-->
 ```
 
 ### 2015
@@ -473,6 +485,7 @@ tgt.removeAttribute('class');
   biosite_venue = {Proc. of IEEE ICC, 2015},
 }
 
+<!--
 @ARTICLE{7174945,
   author={Yangming {Zhao} and Sheng {Wang} and Shouxi {Luo} and  Vishal {Anand} and Hongfang {Yu} and Xiong {Wang} and Shizhong {Xu} and Xiaoning {Zhang}},
   journal={Journal of Lightwave Technology},
@@ -503,7 +516,7 @@ tgt.removeAttribute('class');
 
   biosite_venue = {Proc. of IEEE ICC, 2015},
 }
-
+-->
 ```
 
 ### 2014
@@ -541,7 +554,7 @@ tgt.removeAttribute('class');
   biosite_url = {./publications/icccn14-ftagg.pdf},
   biosite_venue = {Proc. of ICCCN, 2014},
 }
-
+<!--
 @INPROCEEDINGS{7037142,
   author={Yangming {Zhao} and Sheng {Wang} and Shouxi {Luo} and Hongfang {Yu} and Shizhong {Xu} and Xiaoning {Zhang}},
   booktitle={2014 IEEE Global Communications Conference},
@@ -556,7 +569,7 @@ tgt.removeAttribute('class');
 
   biosite_venue = {Proc. of IEEE GLOBECOM, 2014},
 }
-
+-->
 ```
 
 <script type="text/javascript" src="http://tajs.qq.com/stats?sId=66516992" charset="UTF-8"></script>
