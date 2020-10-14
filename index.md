@@ -74,11 +74,11 @@ tgt.removeAttribute('class');
 
 @ARTICLE{iotj20-ppush,
   author   = {Shouxi Luo and Tie Ma and Wei Shan and Pingzhi Fan and Huanlai Xing and Hongfang Yu},
-  title    = {Efficient Multi-source Data Delivery in Edge Cloud with Rateless Parallel Push},
+  title    = {Efficient Multisource Data Delivery in Edge Cloud With Rateless Parallel Push},
   journal={IEEE Internet of Things Journal},
   year={2020},
 
-  biosite_url = {./publications/iotj20-ppush.pdf},
+  biosite_url = {./publications/jiot20-ppush.pdf},
   biosite_venue = {IEEE Internet of Things Journal, 2020},  
 }
 
