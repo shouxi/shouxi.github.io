@@ -307,6 +307,11 @@ tgt.removeAttribute('class');
 
 ```
 
+Related code: 
+
+1. CREW, an efficient partial reduce execution scheme for fully connected workers, [paper](https://conferences.sigcomm.org/events/apnet2022/posters/Efficient%20Partial%20Reduce%20Across%20Clouds.pdf), [code](./publications/crew-code.zip)    
+
+
 <script>
 var _hmt = _hmt || [];
 (function() {
