@@ -35,7 +35,6 @@ Prior to joining Southwest Jiaotong University, I was an engineer working on clo
 To contact me, drop me an email at <span id="_eml" class="gl-eml">what at what </span>.
 
 
-
 <!--[bio][protect]
 <script type="application/javascript">
 window.setTimeout(function ()
