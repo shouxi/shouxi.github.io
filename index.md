@@ -69,6 +69,16 @@ tgt.removeAttribute('class');
   biosite_venue = {IEEE/ACM Transactions on Networking, 2024},  
 }
 
+@ARTICLE{tpds24-crew,
+  author   = {Shouxi Luo and Renyi Wang and Ke Li and Huanlai Xing},
+  title    = {Efficient Cross-Cloud Partial Reduce With CREW},
+  journal={IEEE Transactions on Parallel and Distributed Systems},
+  year={2024},
+
+  biosite_url = {./publications/tpds24-crew.pdf},
+  biosite_venue = {IEEE Transactions on Parallel and Distributed Systems, 2024},  
+}
+
 @ARTICLE{tnse24-mtree,
   author={Luo, Shouxi and Wang, Renyi and Xing, Huanlai},
   journal={IEEE Transactions on Network Science and Engineering}, 
