@@ -28,9 +28,9 @@ NOTE that this README.md is not licensed under the MIT license. You can use this
 
 <!--figure class="gl-page-background gl-float-right" style="text-align: center;"><img src="./assets/images/hero-image.png" alt="A photo of Shouxi Luo" width="160" height="160" style="max-width: 160px;" /></figure-->
 
-I am an Associate Professor with the [School of Computing and Artificial Intelligence, Southwest Jiaotong University](https://scai.swjtu.edu.cn/index.html). Currently, I am working on building flexible and performance-optimized network protocols for emerging networked systems/applications like distributed machine learning and serverless computing. 
+I am an Associate Professor with the [School of Computing and Artificial Intelligence, Southwest Jiaotong University](https://scai.swjtu.edu.cn/index.html). Currently, I am working on building flexible and performance-optimized network protocols for emerging networked systems/applications like distributed machine learning. 
 
-Prior to joining Southwest Jiaotong University, I was an engineer working on cloud storage systems at Huawei for one year. I obtained my Ph.D. degree in communication and information system from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2016. During my PhD, I also spent one year at ETH Zurich working with [Prof. Laurent Vanbever](https://vanbever.eu/). Before that, I earned my bachelor's degree in communication engineering from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2011. 
+Prior to joining Southwest Jiaotong University, I was an engineer working on cloud storage systems at Huawei for one year. I obtained my Ph.D. degree in communication and information systems from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2016. During my PhD, I also spent one year at ETH Zurich working with [Prof. Laurent Vanbever](https://vanbever.eu/). Before that, I earned my bachelor's degree in communication engineering from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2011. 
 
 To contact me, drop me an email at <span id="_eml" class="gl-eml">what at what </span>.
 
