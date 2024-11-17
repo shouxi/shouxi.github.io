@@ -80,7 +80,7 @@ tgt.removeAttribute('class');
 }
 
 @ARTICLE{tsc24-selmcast,
-  author   = {Shouxi Luo, Pingzhi Fan, Ke Li, Huanlai Xing, Long Luo, and Hongfang Yu},
+  author   = {Shouxi Luo and Pingzhi Fan and Ke Li and Huanlai Xing and Long Luo and Hongfang Yu},
   title    = {Efficient Parameter Synchronization for Peer-to-Peer Distributed Learning With Selective Multicast},
   journal={IEEE Transactions on Services Computing},
   year={2024},
