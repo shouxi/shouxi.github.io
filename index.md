@@ -79,6 +79,16 @@ tgt.removeAttribute('class');
   biosite_venue = {IEEE Transactions on Parallel and Distributed Systems, 2024},  
 }
 
+@ARTICLE{tsc24-selmcast,
+  author   = {Shouxi Luo, Pingzhi Fan, Ke Li, Huanlai Xing, Long Luo, and Hongfang Yu},
+  title    = {Efficient Parameter Synchronization for Peer-to-Peer Distributed Learning With Selective Multicast},
+  journal={IEEE Transactions on Services Computing},
+  year={2024},
+
+  biosite_url = {./publications/tsc24-selmcast.pdf},
+  biosite_venue = {IEEE Transactions on Services Computing, 2024},  
+}
+
 @ARTICLE{tnse24-mtree,
   author={Luo, Shouxi and Wang, Renyi and Xing, Huanlai},
   journal={IEEE Transactions on Network Science and Engineering}, 
