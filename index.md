@@ -59,6 +59,28 @@ tgt.removeAttribute('class');
 
 ```blog-bib
 
+
+@ARTICLE{tmc25-inp,
+  author   = {Shouxi Luo and Peidong Zhang and Xin Song and Pingzhi Fan and Huanlai Xing and Long Luo and Hongfang Yu},
+  title    = {Domain-Speciﬁc Transport Protocols for In-Network Processing at the Edge: A Case Study of Accelerating Model Synchronization},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2025},
+
+  biosite_url = {./publications/tmc25-inp.pdf},
+  biosite_venue = {IEEE Transactions on Mobile Computing, 2025},  
+}
+
+
+@ARTICLE{tsc24-selmcast,
+  author   = {Shouxi Luo and Pingzhi Fan and Ke Li and Huanlai Xing and Long Luo and Hongfang Yu},
+  title    = {Efficient Parameter Synchronization for Peer-to-Peer Distributed Learning With Selective Multicast},
+  journal={IEEE Transactions on Services Computing},
+  year={2025},
+
+  biosite_url = {./publications/tsc24-selmcast.pdf},
+  biosite_venue = {IEEE Transactions on Services Computing, 2025},  
+}
+
 @ARTICLE{ton24-aro,
   author   = {Shouxi Luo and Xiaoyu Yu and Ke Li and Huanlai Xing},
   title    = {Releasing the Power of In-Network Aggregation With Aggregator-Aware Routing Optimization},
@@ -79,15 +101,6 @@ tgt.removeAttribute('class');
   biosite_venue = {IEEE Transactions on Parallel and Distributed Systems, 2024},  
 }
 
-@ARTICLE{tsc24-selmcast,
-  author   = {Shouxi Luo and Pingzhi Fan and Ke Li and Huanlai Xing and Long Luo and Hongfang Yu},
-  title    = {Efficient Parameter Synchronization for Peer-to-Peer Distributed Learning With Selective Multicast},
-  journal={IEEE Transactions on Services Computing},
-  year={2024},
-
-  biosite_url = {./publications/tsc24-selmcast.pdf},
-  biosite_venue = {IEEE Transactions on Services Computing, 2024},  
-}
 
 @ARTICLE{tnse24-mtree,
   author={Luo, Shouxi and Wang, Renyi and Xing, Huanlai},
